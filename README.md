@@ -3,6 +3,9 @@
 ## Source of Data: Kaggle 
 https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data
 
+## Excel File: Due to its large space here's the link of it in drive
+https://docs.google.com/spreadsheets/d/1BBBQQep8nej8rwmAMYwqOL0Rq8vymSNI/edit?usp=drive_link&ouid=108082760084790458229&rtpof=true&sd=true
+
 ## Tools: I used Excel and its functions to perform cleaning, pivoting, analysis, and data visualization. 
 
 ## Analysis:
